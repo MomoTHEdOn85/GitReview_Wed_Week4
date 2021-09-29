@@ -1,7 +1,6 @@
 # Flamed Kamini Team!!
  
-# ${1:Project Name}
-TODO: Write a team description 
+# Write a team description 
 
 
 ## Contributing
@@ -15,9 +14,6 @@ TODO: Write a team description
 ## Credits
 put your team names
 TODO: Write credits
+
 ## License : MIT
-TODO: Write licen
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
  
